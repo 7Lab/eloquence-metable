@@ -14,6 +14,12 @@
         "mappable",
         "mutable"
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://git.falcon.zone/siteonline/eloquence-mutable.git"
+        }
+    ],
     "authors": [
         {
             "name": "Jarek Tkaczyk",
@@ -25,7 +31,7 @@
     "require": {
         "php": ">=7.0.0",
         "sofa/eloquence-base": "v7.1",
-        "sofa/eloquence-mutable": "^5.5|^6.0"
+        "sofa/eloquence-mutable": "dev-lv7"
     },
     "autoload": {
         "psr-4": {
