@@ -1,5 +1,5 @@
 {
-    "name": "sofa/eloquence-metable",
+    "name": "siteonline/eloquence-metable",
     "description": "Flexible Searchable, Mappable, Metable, Validation and more extensions for Laravel Eloquent ORM.",
     "license": "MIT",
     "support": {
@@ -31,7 +31,7 @@
     "require": {
         "php": ">=7.0.0",
         "sofa/eloquence-base": "v7.1",
-        "sofa/eloquence-mutable": "dev-lv7"
+        "siteonline/eloquence-mutable": "dev-lv7"
     },
     "autoload": {
         "psr-4": {
