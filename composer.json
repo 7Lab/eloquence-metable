@@ -17,6 +17,10 @@
     "repositories": [
         {
             "type": "vcs",
+            "url": "https://git.falcon.zone/siteonline/eloquence-metable.git"
+        },
+        {
+            "type": "vcs",
             "url": "https://git.falcon.zone/siteonline/eloquence-mutable.git"
         }
     ],
@@ -30,7 +34,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "sofa/eloquence-base": "v7.1",
+        "siteonline/eloquence-metable": "dev-lv8",
         "siteonline/eloquence-mutable": "dev-lv8"
     },
     "autoload": {
