@@ -31,7 +31,7 @@
     "require": {
         "php": ">=7.0.0",
         "sofa/eloquence-base": "v7.1",
-        "siteonline/eloquence-mutable": "dev-lv7"
+        "siteonline/eloquence-mutable": "dev-lv8"
     },
     "autoload": {
         "psr-4": {
